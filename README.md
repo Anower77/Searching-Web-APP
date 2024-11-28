@@ -43,5 +43,17 @@ A web application that allows users to search for recipes using keywords. It fet
     - After searching, a list of recipes will appear.
     - Click on a recipe to see its full details, including ingredients and cooking instructions.
 
-## File Structure
+## Live Version
 
+You can try out the live version of this app here: [Recipe Finder Live Demo](https://vermillion-sopapillas-cc79a6.netlify.app/)
+<!-- 
+## File Structure -->
+
+
+## API Used
+
+This project fetches recipe data from [TheMealDB API](https://www.themealdb.com/). It uses their free API to search for recipes by name and fetch detailed information about each meal.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
